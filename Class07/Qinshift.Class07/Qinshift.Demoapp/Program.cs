@@ -44,7 +44,7 @@ int userInput = int.Parse(Console.ReadLine());
 //Console.WriteLine(monthName);
 // Do the same by using service method
 MonthService monthService = new MonthService();
-Months.September.GetMonthOutOfNumber(userInput);
+monthService.GetMonthOutOfNumber(userInput);
 
 
 
