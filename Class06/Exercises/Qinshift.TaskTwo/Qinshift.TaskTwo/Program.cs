@@ -84,7 +84,7 @@ class Program
 
                   
                     bool usernameExists = false;
-                    foreach (var user in users)
+                    foreach (User user in users)
                     {
                         if (user.Username == username)
                         {
@@ -106,7 +106,7 @@ class Program
                         newUser.Id = users.Length;
 
                         Console.WriteLine("Registration complete! Users:");
-                        foreach (var user in users)
+                        foreach (User user in users)
                         {
                             Console.WriteLine($"{user.Id} {user.Username}");
                         }
