@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qinshift.ErrorHandling", "Qinshift.ErrorHandling\Qinshift.ErrorHandling.csproj", "{562C309B-C981-43EC-8832-BB86246B4329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qinshift.ExerciseOne", "Qinshift.ExerciseOne\Qinshift.ExerciseOne.csproj", "{4898A841-83A7-486C-B77A-EE6FD6C50CEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562C309B-C981-43EC-8832-BB86246B4329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562C309B-C981-43EC-8832-BB86246B4329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562C309B-C981-43EC-8832-BB86246B4329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562C309B-C981-43EC-8832-BB86246B4329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4898A841-83A7-486C-B77A-EE6FD6C50CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4898A841-83A7-486C-B77A-EE6FD6C50CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4898A841-83A7-486C-B77A-EE6FD6C50CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4898A841-83A7-486C-B77A-EE6FD6C50CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0425134A-CB0E-4398-9B22-FCACC10DE549}
+	EndGlobalSection
+EndGlobal
